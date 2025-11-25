@@ -38,6 +38,37 @@
 			"Name": "UAssetBrowser",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/648d582688654f7db09939af111c45b5"
+		},
+		{
+			"Name": "AIAssistant",
+			"Enabled": true
+		},
+		{
+			"Name": "AndroidMedia",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidMoviePlayer",
+			"Enabled": false
+		},
+		{
+			"Name": "OnlineSubsystemGooglePlay",
+			"Enabled": false,
+			"SupportedTargetPlatforms": [
+				"Android"
+			]
+		},
+		{
+			"Name": "AndroidPermission",
+			"Enabled": false
+		},
+		{
+			"Name": "AndroidFileServer",
+			"Enabled": false
+		},
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
